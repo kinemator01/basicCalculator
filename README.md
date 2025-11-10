@@ -20,6 +20,7 @@ I didn’t really focus on design too much, I just wanted to make something that
 - Add keyboard support so you don’t have to click everything
 - Make it look less plain (colors, hover effects, better design)
 - Accessibility stuff (like labels for screen readers)
+-Add a boolean feature
 
 ---
 
