@@ -1,4 +1,4 @@
-# 🧮 EasyCalc — My First Vanilla Web Development Project
+# 🧮 EasyCalc — My First Vanilla Web Development Project  |  https://kinemator01.github.io/basicCalculator/calculator.html
 
 EasyCalc is a fully functional client-side web application and my very first independent project built after 3 months of learning web development fundamentals. It features a clean, responsive layout designed to process core arithmetic operations dynamically within a styled browser window grid.
 
